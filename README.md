@@ -1,0 +1,2 @@
+# DisqueDur
+Application console C#.
