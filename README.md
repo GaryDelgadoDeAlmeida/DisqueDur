@@ -1,2 +1,2 @@
 # DisqueDur
-Application console C#.
+Application C# Orienté Objet.
