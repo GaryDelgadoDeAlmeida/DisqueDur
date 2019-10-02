@@ -1,0 +1,7 @@
+F:\Perso\BTS SIO\Base Programmation\TP2\DisqueDurTP2\DisqueDurTP2\bin\Debug\DisqueDurTP2.exe
+F:\Perso\BTS SIO\Base Programmation\TP2\DisqueDurTP2\DisqueDurTP2\bin\Debug\DisqueDurTP2.pdb
+F:\Perso\BTS SIO\Base Programmation\TP2\DisqueDurTP2\DisqueDurTP2\obj\x86\Debug\DisqueDurTP2.exe
+F:\Perso\BTS SIO\Base Programmation\TP2\DisqueDurTP2\DisqueDurTP2\obj\x86\Debug\DisqueDurTP2.pdb
+F:\Perso\BTS SIO\Base Programmation\TP2\DisqueDurTP2\DisqueDurTP2\obj\x86\Debug\DisqueDurTP2.csprojResolveAssemblyReference.cache
+F:\Mes Dossiers\BTS SIO\Base Programmation\TP2\DisqueDurTP2\DisqueDurTP2\obj\x86\Debug\DisqueDurTP2.exe
+F:\Mes Dossiers\BTS SIO\Base Programmation\TP2\DisqueDurTP2\DisqueDurTP2\obj\x86\Debug\DisqueDurTP2.pdb
